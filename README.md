@@ -9,7 +9,7 @@
 | File | Description |
 |---|---|
 | `cnn_vs_transfer_learning.ipynb` | Main experiment notebook |
-| `CNN_vs_TransferLearning_Report.docx` | Report |
+| `CNN_vs_TransferLearning_Report.pdf` | Report |
 | `requirements.txt` | Python package dependencies |
 | `README.md` | This file |
 
