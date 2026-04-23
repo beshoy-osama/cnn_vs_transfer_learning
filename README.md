@@ -50,7 +50,7 @@ No local setup needed. TensorFlow and GPU drivers are pre-installed.
 
 ```bash
 # If using git
-git clone <your-repo-url>
+git clone https://github.com/beshoy-osama/cnn_vs_transfer_learning.git
 cd <project-folder>
 
 # Or simply place all files in a folder and cd into it
