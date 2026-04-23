@@ -1,0 +1,17 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Requirements — Custom CNNs vs. Transfer Learning (Food-101)
+# Compatible with Python 3.9 – 3.11
+# For GPU support (Colab/Kaggle), TensorFlow automatically uses CUDA if available.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Deep Learning
+tensorflow>=2.13.0,<2.17.0
+
+# TensorFlow Datasets (Food-101 loader)
+tensorflow-datasets>=4.9.0
+
+# Scientific Computing
+numpy>=1.23.0,<2.0.0
+
+# Visualisation
+matplotlib>=3.7.0
