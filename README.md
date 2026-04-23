@@ -136,7 +136,7 @@ Once the environment is ready and the notebook is open, run cells **in order** f
 | 2 | Data Loading | Downloads Food-101 (~5 GB), filters 10 classes |
 | 3 | Phase 1 — Scratch CNN | Builds and trains custom CNN with RMSprop |
 | 4 | Phase 2 — Transfer Learning | Loads MobileNetV2, trains classification head with Adam |
-| 5 | Visualisations | Saves `plot_scratch.png`, `plot_tl.png`, `plot_comparison.png` |
+| 5 | Visualizations | Saves `plot_scratch.png`, `plot_tl.png`, `plot_comparison.png` |
 | 6 | Results Summary | Prints comparison table of both models |
 | 7 | Conclusion | Guided discussion template |
 
